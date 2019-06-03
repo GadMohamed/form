@@ -3,7 +3,7 @@ header("Access-Control-Allow-Origin: *");
 header('Content-type: application/json');
 //recipient
 
-$to = 'email@gmail.com';
+$to = 'email@gmail.co';
 echo $to;
 
 //sender
